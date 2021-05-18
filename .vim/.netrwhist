@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/etc/X11/xinit'
+let g:netrw_dirhist_2='/home/calvo/.config/i3'
+let g:netrw_dirhist_1='/home/calvo/.config/polybar'
+let g:netrw_dirhist_0='/home/calvo/.config/i3'
+let g:netrw_dirhist_9='/home/calvo/.config/xfce4/xfconf/xfce-perchannel-xml'
+let g:netrw_dirhist_8='/home/calvo/.config/xfce4/xfconf'
+let g:netrw_dirhist_7='/home/calvo/.config/xfce4'
+let g:netrw_dirhist_6='/home/calvo/.themes/Nordic'
+let g:netrw_dirhist_5='/home/calvo/.themes'
+let g:netrw_dirhist_4='/home/calvo/.config/ncmpcpp'

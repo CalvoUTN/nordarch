@@ -27,23 +27,13 @@ configuration {
 
 // light
 * {
-ac: #6c6cb3;
+ac: #5e81ac;
 bg: #2e3440FF;
-bg-alt: #3b4252FF;
-fg: #2e3440FF;
+bg-alt: #434c5e;
+fg: #d8dee9;
 fg-alt: #d8dee9FF;
+fg-search-box: #2e3440FF;
 }
-
-
-// dark
-/*
-* {
-ac: #6c6cb3;
-bg: #2e3440FF;
-bg-alt: #f0f3fa;
-fg: #2e3440FF;
-}
-*/
 
 // blur
 /*
@@ -129,6 +119,6 @@ prompt {
 
 entry {
   font: "JetBrainsMono Nerd Font10";
-  text-color: @fg-alt;
+  text-color: @fg-search-box;
   padding: 8 0 8 12;
 }

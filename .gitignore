@@ -23,6 +23,7 @@ polybar-collection
 .steampath
 .steampid
 *.tmp
+*.tdb
 .viminfo
 VirtualMachine/
 .wine

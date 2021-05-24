@@ -4,7 +4,8 @@
  * Mail : adi1090x@gmail.com
  * Github : @adi1090x
  * Reddit : @adi1090x
- *
+ * 
+ * Modified to be closer to Nord theme by MuadDDib/CalvoUTN.
  */
 
 configuration {
@@ -20,7 +21,7 @@ configuration {
 	bw: 0;
     fullscreen: false;
     show-icons: true;
-	terminal: "termite";
+	terminal: "kitty";
 	sidebar-mode: false;
 }
 
@@ -56,7 +57,7 @@ fg: #e5e5e5;
 
 * {
   background-color: #00000000;
-  font: "SF Pro Display 10";
+  font: "JetBrainsMono Nerd Font 10";
 }
 
 window {
@@ -64,8 +65,8 @@ window {
   width: 15%;
   anchor: south west;
   location: south west;
-  x-offset: +20px;
-  y-offset: -94px;
+  x-offset: +15px;
+  y-offset: -40px;
   transparency: "real";
 }
 
@@ -127,7 +128,7 @@ prompt {
 }
 
 entry {
-  font: "SF Pro Display 10";
+  font: "JetBrainsMono Nerd Font10";
   text-color: @fg-alt;
   padding: 8 0 8 12;
 }

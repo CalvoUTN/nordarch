@@ -16,7 +16,6 @@ Nextcloud
 .nvidia-settings-rc
 .pki
 polybar-collection
-.profile
 .pulse-cooke
 .ssh/
 .steam
@@ -44,7 +43,6 @@ facultad/
 .gnupg/
 .local/
 .pulse-cookie
-.xinitrc
 .xsession-errors
 .xsession-errors.old
 .zcompdump

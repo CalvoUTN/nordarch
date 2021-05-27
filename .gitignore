@@ -1,4 +1,5 @@
 rice/
+.zsh*
 Desktop
 .dmrc
 Downloads/
@@ -46,7 +47,6 @@ facultad/
 .xsession-errors
 .xsession-errors.old
 .zcompdump
-.zshrc*
 .Xauthority
 
 
@@ -86,3 +86,6 @@ facultad/
 .config/QtProject.conf
 .config/Unknown Organization/
 .config/pavucontrol.ini
+
+.config/pulse/*
+.vim/.netrwhist

@@ -2,6 +2,8 @@ filetype plugin indent on " Load plugins according to detected filtype
 syntax on
 set encoding=utf8
 
+set spelllang=es_es,en_us
+set spell
 set tabstop=1
 set shiftwidth=2
 set softtabstop=2
@@ -10,13 +12,14 @@ set autoindent
 set smarttab
 set shiftround
 
+
 " Rule and relative numbers
 set colorcolumn=80             " Create rule at 80 characters
 set number                     " Show current line number
 set relativenumber             " Show relative line numbers
 set cursorline                 " Highlight the cursor
 
-set backspace=indent,eol,start " Make baclspace work as you would expect
+set backspace=indent,eol,start " Make backspace work as you would expect
 set laststatus=2 " always show status line
 set showcmd " show already typed keys when more are expected
 
